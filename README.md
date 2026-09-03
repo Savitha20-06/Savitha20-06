@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/download.jpeg" width="100%" alt="Savitha Banner"/>
+<!-- <img src="./assets/download.jpeg" width="100%" alt="Savitha Banner"/> -->
 
 <br>
 
