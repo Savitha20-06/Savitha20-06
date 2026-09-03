@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/FINAL%20YEAR-ECE-6D28D9?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/FINAL%20YEAR-CSE-6D28D9?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
 
 <img src="https://img.shields.io/badge/JAVA-PROBLEM%20SOLVING-7C3AED?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
 
