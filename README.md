@@ -1,14 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,40:8B5CF6,70:A78BFA,100:C4B5FD&height=220&section=header&text=SAVITHA%20S&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=COMPUTER%20SCIENCE%20ENGINEERING%20%7C%20FULL%20STACK%20%7C%20AI%20%26%20RAG&descAlignY=56&descSize=17&animation=fadeIn"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=19\&duration=3000\&pause=1000\&color=8B5CF6\&center=true\&vCenter=true\&width=850\&lines=Java+%7C+Data+Structures+%26+Algorithms;Full+Stack+Development;Building+Practical+Software+Solutions;Exploring+AI%2C+RAG+%26+Intelligent+Systems)](https://git.io/typing-svg)
+<img src="./assets/download.jpeg" width="100%" alt="Savitha Banner"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/FINAL%20YEAR-CSE-8B5CF6?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/JAVA-PROBLEM%20SOLVING-6D28D9?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/AI-RAG%20%26%20AGENTS-A78BFA?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+# 👋 Hi, I'm Savitha S
+
+### CSE UNDERGRADUATE | JAVA | FULL STACK | SOFTWARE DEVELOPMENT
+
+<br>
+
+<img src="https://img.shields.io/badge/FINAL%20YEAR-ECE-6D28D9?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/JAVA-PROBLEM%20SOLVING-7C3AED?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/DSA-DATA%20STRUCTURES%20%26%20ALGORITHMS-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPMENT-A78BFA?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
 
 </div>
 
