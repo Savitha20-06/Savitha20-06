@@ -1,266 +1,314 @@
 <div align="center">
 
-# 👋 Hi, I'm Savitha S
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=Savitha%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=17"/>
 
-### 💻 Computer Science Engineering Student | Full-Stack Developer | 🤖 AI Enthusiast
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=Building+Projects+%F0%9F%9A%80;Learning+AI+%26+RAG+%F0%9F%A4%96;Solving+DSA+Problems+%F0%9F%A7%A0;Turning+Ideas+into+Real+Applications+%E2%9C%A8"/>
-</p>
+### 💜 Building • Learning • Creating
 
 <p>
   <a href="https://github.com/Savitha20-06">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 </div>
 
 ---
 
-## ✨ About Me
+## 🌷 About Me
 
-🎓 I'm a **Final Year Computer Science Engineering student** passionate about technology and software development.
+<table>
+<tr>
+<td width="60%">
 
-💻 I enjoy building **full-stack web applications** using Java, React, Spring Boot and SQL.
+🎓 **Final Year CSE Student**
 
-🤖 I'm exploring **Artificial Intelligence, RAG systems and AI-powered applications**.
+I'm passionate about transforming ideas into practical software applications and continuously improving my development skills.
 
-🧠 I'm continuously improving my **Data Structures & Algorithms and problem-solving skills**.
+💻 **Full-Stack Development**
+Building responsive and functional web applications using modern technologies.
 
-🚀 I believe in:
+🤖 **Artificial Intelligence**
+Exploring RAG systems, AI agents and intelligent applications.
 
-**Learn → Build → Improve → Repeat**
+🧠 **Problem Solving**
+Currently strengthening my Data Structures & Algorithms skills using Java.
+
+🚀 **My Approach**
+I learn by building, experiment with new technologies, and improve through every project.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&width=300&lines=Hello+there!+%F0%9F%91%8B;Welcome+to+my+profile!+%F0%9F%92%9C;Let's+build+something!+%F0%9F%9A%80"/>
+
+<br><br>
+
+🌸 **Always Learning**
+💜 **Always Building**
+✨ **Always Improving**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ My Tech Stack
+## 🪻 What I Work With
 
-### 👩‍💻 Programming Languages
+<div align="center">
 
-<p>
+### 💻 Languages
+
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
-</p>
 
-### ⚡ Frameworks & Development
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,spring,nodejs,express,flask"/>
-</p>
+### 🎨 Frontend
 
-### 🗄️ Database & Tools
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode"/>
-</p>
+<br><br>
 
-### 🤖 AI & Other Technologies
+### ⚙️ Backend
 
-<p>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-7F00FF?style=for-the-badge&logo=ai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-E100FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-5C2D91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
-</p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask"/>
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+<br><br>
+
+### 🤖 AI & Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Agents-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-C4B5FD?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-7C3AED?style=flat-square"/>
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 💜 Featured Projects
 
-### 🤖 AI-Powered Enterprise IT Helpdesk Agent
+<table>
+<tr>
 
-> An intelligent IT support system that combines **RAG, AI and automation** to help employees solve technical issues.
+<td width="50%" valign="top">
 
-✨ **Highlights**
+### 🤖 AI IT Helpdesk Agent
 
-* 🔎 Knowledge-base powered answers
-* 🤖 RAG-based question answering
+An AI-powered enterprise helpdesk application that uses **RAG and a knowledge base** to provide relevant IT support.
+
+**✨ Features**
+
+* 🔎 Knowledge-base search
+* 🤖 RAG-based responses
 * 🎫 Automatic ticket creation
-* 🏷️ Issue classification & priority prediction
+* 🏷️ Issue classification
+* 📌 Priority prediction
 * 🔐 Role-based authentication
-* 📊 Employee, IT Staff & Admin dashboards
+* 📊 Admin & IT dashboards
 
-**Tech:** `Java` `Spring Boot` `React` `MySQL` `RAG` `ChromaDB`
+**🛠️ Stack**
 
----
+`Java` `Spring Boot` `React`
+`MySQL` `ChromaDB` `RAG`
 
-### ♻️ Smart Waste Recycling System
+</td>
 
-> An IoT-based platform designed to improve waste collection and recycling management in apartment communities.
+<td width="50%" valign="top">
 
-✨ **Highlights**
+### ♻️ Smart Waste Recycling
+
+An IoT-based recycling management system designed for apartment communities.
+
+**✨ Features**
 
 * 🗑️ Smart dustbin monitoring
 * 📡 IoT sensor integration
-* 🟢🟡🔴 Waste-level alerts
+* 🟢🟡🔴 Fill-level alerts
 * 👷 Collector assignment
 * 🗺️ Route optimization
-* 📊 Recycling dashboard
+* 📊 Monitoring dashboard
 
-**Tech:** `React` `Node.js` `MongoDB` `ESP8266` `IoT`
+**🛠️ Stack**
 
----
+`React` `Node.js` `MongoDB`
+`ESP8266` `IoT`
 
-### 🧠 Mental Health Tracker
+</td>
 
-> A web application designed to help users track and understand their daily wellness patterns.
+</tr>
 
-✨ **Highlights**
+<tr>
 
-* 📊 Daily tracking
-* 📈 Progress visualization
-* 📝 Simple user interface
-* 🌐 Responsive web application
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
----
+<td width="50%" valign="top">
 
 ### 🐾 GesturGait AI
 
-> A research-oriented AI project exploring smartphone-based movement analysis for neurological monitoring.
+A research-oriented project exploring smartphone-based movement analysis using machine learning.
 
-✨ **Highlights**
+**✨ Focus**
 
-* 📱 Smartphone sensor data
+* 📱 Sensor data
 * 📊 Data preprocessing
 * 🧠 Machine learning
-* ⚡ TensorFlow Lite inference
+* ⚡ TensorFlow Lite
 
-**Tech:** `Python` `Machine Learning` `TensorFlow Lite`
+**🛠️ Stack**
+
+`Python` `Machine Learning`
+`TensorFlow Lite`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Mental Health Tracker
+
+A web application focused on helping users track their daily wellness patterns.
+
+**✨ Features**
+
+* 📅 Daily tracking
+* 📊 Progress monitoring
+* 📝 Simple interface
+* 📱 Responsive design
+
+**🛠️ Stack**
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🎯 Currently Learning
+## 🌸 Currently Exploring
 
 <div align="center">
 
-| 🌱 Learning    | 🎯 Focus                    |
-| -------------- | --------------------------- |
-| ☕ Java         | Advanced Programming        |
-| 🍃 Spring Boot | Backend Development         |
-| 🧠 DSA         | Problem Solving             |
-| 🤖 RAG         | AI Applications             |
-| 🔗 AI Agents   | Intelligent Systems         |
-| ⚛️ React       | Modern Frontend Development |
+| 💜 Area | 🌱 Learning                      |
+| :-----: | :------------------------------- |
+|    ☕    | **Java & Spring Boot**           |
+|    🧠   | **Data Structures & Algorithms** |
+|    🤖   | **RAG & AI Agents**              |
+|    ⚛️   | **Advanced React**               |
+|   🗄️   | **Backend & Database Design**    |
+|   🏗️   | **System Design Basics**         |
 
 </div>
 
 ---
 
-# 🧩 DSA & Problem Solving
-
-### 🧠 My Learning Path
-
-**Arrays** → **Strings** → **Sliding Window** → **Stack** → **Queue** → **Linked List** → **Trees** → **Graphs** → **Dynamic Programming**
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/DSA-Practicing-7F00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-Problem_Solving-E100FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Consistency-🚀-FF6F00?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📊 GitHub Activity
+## 🧠 Problem Solving
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Savitha20-06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+### My DSA Journey
+
+🌱 Arrays
+↓
+🌸 Strings
+↓
+🪻 Sliding Window
+↓
+💜 Stack & Queue
+↓
+✨ Linked List
+↓
+🌷 Trees
+↓
+🤖 Graphs
+↓
+🚀 Dynamic Programming
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-C4B5FD?style=flat-square"/>
+
+</div>
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Savitha20-06&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=A78BFA&text_color=6B21A8&bg_color=F5F3FF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savitha20-06&layout=compact&hide_border=true&title_color=8B5CF6&text_color=6B21A8&bg_color=F5F3FF"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savitha20-06&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Savitha20-06&hide_border=true&background=F5F3FF&ring=8B5CF6&fire=A78BFA&currStreakLabel=7C3AED&sideLabels=8B5CF6&dates=6B21A8"/>
+
+</div>
+
+---
+
+## 🌙 My Developer Journey
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">🌱<br><b>Learn</b><br><sub>Explore new concepts</sub></td>
+<td>→</td>
+<td align="center">💡<br><b>Explore</b><br><sub>Experiment with ideas</sub></td>
+<td>→</td>
+<td align="center">🛠️<br><b>Build</b><br><sub>Create real projects</sub></td>
+<td>→</td>
+<td align="center">🧩<br><b>Solve</b><br><sub>Debug & improve</sub></td>
+<td>→</td>
+<td align="center">🚀<br><b>Grow</b><br><sub>Repeat & evolve</sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💭 A Little More About Me
+
+<div align="center">
+
+🎨 **Art & Craft**   •   🧵 **Stitching**   •   💻 **Coding**   •   🧠 **Learning**
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Savitha20-06&theme=tokyonight&hide_border=true"/>
+> 💜 *"Every project is another step towards becoming a better developer."*
 
 </div>
 
 ---
 
-# 🌟 What I'm Working On
-
-<div align="center">
-
-### 🤖 Building AI-Powered Applications
-
-### ☕ Strengthening Java & Spring Boot
-
-### 🧠 Improving DSA & Problem Solving
-
-### ⚛️ Creating Full-Stack Applications
-
-### 🔎 Exploring RAG & AI Agents
-
-</div>
-
----
-
-# 💡 My Developer Mindset
-
-<div align="center">
-
-### 🌱 Learn
-
-⬇️
-
-### 🛠️ Build
-
-⬇️
-
-### 🐛 Debug
-
-⬇️
-
-### 📈 Improve
-
-⬇️
-
-### 🚀 Repeat
-
-</div>
-
----
-
-# 📈 GitHub Contribution
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Savitha20-06&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Savitha20-06/Savitha20-06/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🌐 Let's Connect
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/Savitha20-06">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -269,10 +317,10 @@
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
+### 💜 Thanks for visiting!
 
-**💻 Code. 🤖 Create. 🚀 Grow.**
+**✨ Keep Learning • Keep Building • Keep Growing ✨**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer"/>
 
 </div>
