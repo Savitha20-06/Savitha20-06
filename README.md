@@ -1,22 +1,13 @@
 <div align="center">
 
-<!-- <img src="./assets/download.jpeg" width="100%" alt="Savitha Banner"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:211D27,20:332632,40:4B3545,60:624554,80:7A5568,100:B47D95&height=260&section=header&text=SAVITHA%20S&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=CSE%20UNDERGRADUATE%20%7C%20JAVA%20%7C%20FULL%20STACK%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=63&descSize=16&descColor=F5F3F5&animation=fadeIn" width="100%"/>
 
-<br>
+### ✦ Building · Learning · Solving ✦
 
-# 👋 Hi, I'm Savitha S
+<img src="https://img.shields.io/badge/FINAL%20YEAR-CSE-4A4650?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CGPA-8.5-624554?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SPECIALIZATION-BLOCKCHAIN%20TECHNOLOGY-806275?style=for-the-badge&logo=blockchaindotcom&logoColor=FFFFFF"/>
 
-### CSE UNDERGRADUATE | JAVA | FULL STACK | SOFTWARE DEVELOPMENT
-
-<br>
-
-<img src="https://img.shields.io/badge/FINAL%20YEAR-CSE-6D28D9?style=for-the-badge&logo=academia&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/JAVA-PROBLEM%20SOLVING-7C3AED?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/DSA-DATA%20STRUCTURES%20%26%20ALGORITHMS-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPMENT-A78BFA?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
 
 </div>
 
@@ -24,13 +15,13 @@
 
 ## `01` — About
 
-I'm a **Final-Year Computer Science Engineering undergraduate** with a strong interest in **Java, Data Structures & Algorithms, Full Stack Development, and Artificial Intelligence**.
+I'm Savitha S, a final-year Computer Science Engineering undergraduate who enjoys turning ideas into working software.
 
-I enjoy solving programming problems, building practical applications, and exploring technologies that can turn real-world ideas into useful software solutions.
+I started with a curiosity for how code works and that curiosity gradually turned into a passion for problem solving, Java development and building real-world applications. I enjoy breaking down complex problems into smaller pieces, learning new technologies and improving my solutions along the way.
 
-Currently, I'm strengthening my **Java and DSA skills** while expanding my knowledge of **Spring Boot, React.js, Python, RAG, and AI-powered applications**.
+My current focus is on becoming a strong Java Software Developer with a solid foundation in DSA, Full Stack Development and AI-powered applications. I'm currently exploring Spring Boot, React.js, RAG, AI Agents and System Design while continuously sharpening my problem-solving skills.
 
-### Core Skills
+### 🍇 Core Skills
 
 * ☕ **Java** — Programming, OOP & problem solving
 * 🧩 **Data Structures & Algorithms** — Coding practice & logical thinking
@@ -41,11 +32,11 @@ Currently, I'm strengthening my **Java and DSA skills** while expanding my knowl
 * 🔧 **Git & GitHub** — Version control & project management
 * 🤖 **RAG / AI** — Retrieval-based intelligent applications
 
-### Currently Learning
+### 🌱 Currently Learning
 
 `Spring Boot` · `RAG` · `AI Agents` · `ChromaDB` · `System Design`
 
-### Areas of Interest
+### 🎯 Areas of Interest
 
 `Full Stack Development` · `AI & Generative AI` · `Java Software Development` · `Problem Solving`
 
@@ -68,7 +59,7 @@ Currently, I'm strengthening my **Java and DSA skills** while expanding my knowl
 ### ⚙️ Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql"/>
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -79,22 +70,25 @@ Currently, I'm strengthening my **Java and DSA skills** while expanding my knowl
 
 ### 🎯 Areas of Interest
 
-<img src="https://img.shields.io/badge/Java%20Software%20Development-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-6D28D9?style=for-the-badge&logo=web&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/AI%20%26%20RAG-A78BFA?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-C4B5FD?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"/>
+<p>
+<img src="https://img.shields.io/badge/Java%20Software%20Development-4B3545?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-624554?style=for-the-badge&logo=web&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/AI%20%26%20RAG-806275?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-A4778C?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"/>
+</p>
 
 ---
 
 ## `03` — Featured Projects
 
-### 🤖 AI-Powered Enterprise IT Helpdesk Agent
+### 🤖 AI-Powered IT Helpdesk Agent
 
-An **AI-powered enterprise IT support platform** designed to help employees troubleshoot technical issues using an approved company knowledge base.
+A smart **IT support assistant** built with **Java, Spring Boot, React.js, Vite and Tailwind CSS**, helping employees quickly find solutions to common technical problems through an AI-powered chat interface.
 
-The system combines **Retrieval-Augmented Generation, vector search, AI assistance, and automated ticket management** to provide reliable IT support.
+It uses **RAG with ChromaDB and an LLM** to retrieve relevant information from the organization's approved knowledge base and generate helpful troubleshooting guidance. **MySQL** manages application data, while unresolved issues can be automatically converted into support tickets, helping IT teams manage requests more efficiently.
 
-**Key Features:**
+
+### ✨ Key Features
 
 * 🔎 Knowledge-base powered question answering
 * 🧠 Retrieval-Augmented Generation
@@ -106,7 +100,8 @@ The system combines **Retrieval-Augmented Generation, vector search, AI assistan
 * 📊 IT support dashboards
 * 💬 AI-powered troubleshooting assistant
 
-**Technologies:** `Java` `Spring Boot` `React.js` `MySQL` `ChromaDB` `RAG`
+**Technologies:**
+`Java` `Spring Boot` `React.js` `MySQL` `ChromaDB` `RAG`
 
 ---
 
@@ -116,7 +111,7 @@ A **smart waste management and recycling platform** integrated with IoT-enabled 
 
 The system monitors waste levels and provides alerts when bins require collection, helping improve waste collection and recycling management.
 
-**Key Features:**
+### ✨ Key Features
 
 * 🗑️ IoT-enabled smart dustbins
 * 📡 Ultrasonic sensor-based monitoring
@@ -127,78 +122,104 @@ The system monitors waste levels and provides alerts when bins require collectio
 * 🗺️ Route optimization
 * 📍 Live map tracking
 
-**Technologies:** `React.js` `Node.js` `Express.js` `MongoDB` `ESP8266` `HC-SR04`
+**Technologies:**
+`React.js` `Node.js` `Express.js` `MongoDB` `ESP8266` `HC-SR04`
 
 ---
 
-## `04` — LeetCode Journey
+## `04` — Experience
 
-I use coding platforms to strengthen my **problem-solving ability, Java programming, and DSA fundamentals**.
+### 💼 Software Development Intern
 
-### 🧩 DSA Topics
+**[MIST SOFTWARE SOLUTIONS]** · `[Peelamedu]`
+`[June 2025] — [June 2025]`
 
-`Arrays` · `Strings` · `Sliding Window` · `Stack` · `Queue`
+Worked on a live web application as part of structured practical training, gaining hands-on experience in full-stack web development and local application deployment.
 
-`Linked List` · `Trees` · `Graphs` · `Recursion` · `Dynamic Programming`
+### ✨ Key Contributions
 
-<br>
+💻 Cloned and extended a live web application<br>
+🎨 Crafted responsive frontend pages using HTML, CSS, JavaScript, and Bootstrap<br>
+⚙️ Developed backend functionality using PHP and MySQL<br>
+📝 Implemented form handling and dynamic content rendering<br>
+🗄️ Managed database operations using MySQL<br>
+🖥️ Used XAMPP for local server and database management<br>
+✍️ Used Sublime Text as the development editor
 
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"/>
+**Technologies:**
+`HTML` `CSS` `JavaScript` `MySQL` `XAMPP` `PHP` `Sublime text`
+
+---
+
+## `05` — LeetCode Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/u/savitha_subbusamy/">
+
+<img src="https://leetcard.jacoblin.cool/savitha_subbusamy?theme=dark&font=Karma&ext=heatmap" width="600"/>
+
 </a>
 
----
+<br><br>
 
-## `05` — GitHub Activity
+<a href="https://leetcode.com/u/savitha_subbusamy/">
+<img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE%20PROFILE-624554?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"/>
+</a>
+
+</div>
+
+
+## `06` — GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Savitha20-06&bg_color=FFFFFF&color=6D28D9&line=8B5CF6&point=6D28D9&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Savitha20-06&bg_color=FFFFFF&color=624554&line=806275&point=4B3545&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" width="95%"/>
 
 </div>
 
 ---
 
-## `06` — GitHub Stats
+## `07` — GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Savitha20-06&show_icons=true&hide_border=true&title_color=6D28D9&icon_color=8B5CF6&text_color=555555&bg_color=FFFFFF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Savitha20-06&show_icons=true&hide_border=true&title_color=624554&icon_color=806275&text_color=555555&bg_color=FFFFFF" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savitha20-06&layout=compact&hide_border=true&title_color=6D28D9&text_color=555555&bg_color=FFFFFF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savitha20-06&layout=compact&hide_border=true&title_color=624554&text_color=555555&bg_color=FFFFFF" height="170"/>
 
 </div>
 
 ---
 
-## `07` — Connect
+## `08` — Connect
 
 <div align="center">
 
 <a href="mailto:savithasubbusamy20@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-624554?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
-<a href="https://linkedin.com/in/savitha-s-795781296/">
-<img src="https://img.shields.io/badge/LINKEDIN-Savitha%20S-6D28D9?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<a href="https://www.linkedin.com/in/savitha-s-795781296/">
+<img src="https://img.shields.io/badge/LINKEDIN-Savitha%20S-4B3545?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://github.com/Savitha20-06">
-<img src="https://img.shields.io/badge/GITHUB-Savitha20--06-A78BFA?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-Savitha20--06-806275?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://leetcode.com/u/savitha_subbusamy/">
-<img src="https://img.shields.io/badge/LEETCODE-Savitha%20S-C4B5FD?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LEETCODE-Savitha%20S-A4778C?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:6D28D9,70:8B5CF6,100:C4B5FD&height=130&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:211D27,20:332632,40:4B3545,60:624554,80:7A5568,100:B47D95&height=150&section=footer&animation=fadeIn" width="100%"/>
 
-### **Learning. Building. Solving. One problem at a time. 💜**
+### 🍇 **Learning. Building. Solving. One problem at a time.**
 
 </div>
