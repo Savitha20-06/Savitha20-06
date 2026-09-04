@@ -175,11 +175,11 @@ I use coding platforms to strengthen my **problem-solving ability, Java programm
 
 <div align="center">
 
-<a href="YOUR_EMAIL">
+<a href="savithasubbusamy20@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/savitha-s-795781296/">
 <img src="https://img.shields.io/badge/LINKEDIN-Savitha%20S-6D28D9?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
@@ -187,7 +187,7 @@ I use coding platforms to strengthen my **problem-solving ability, Java programm
 <img src="https://img.shields.io/badge/GITHUB-Savitha20--06-A78BFA?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/savitha_subbusamy/">
 <img src="https://img.shields.io/badge/LEETCODE-Savitha%20S-C4B5FD?style=for-the-badge&logo=leetcode&logoColor=FFFFFF"/>
 </a>
 
