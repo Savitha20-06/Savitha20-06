@@ -175,7 +175,7 @@ I use coding platforms to strengthen my **problem-solving ability, Java programm
 
 <div align="center">
 
-<a href="savithasubbusamy20@gmail.com">
+<a href="mailto:savithasubbusamy20@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
