@@ -107,23 +107,25 @@ It uses **RAG with ChromaDB and an LLM** to retrieve relevant information from t
 
 ### ♻️ Smart Waste Recycling System
 
-A **smart waste management and recycling platform** integrated with IoT-enabled dustbins for apartment complexes.
+A **smart waste management platform** built with **React 18, TypeScript, FastAPI, and Tailwind CSS**, integrated with **NodeMCU ESP8266 and HC-SR04 ultrasonic sensors** to monitor waste levels in apartment complexes.
 
-The system monitors waste levels and provides alerts when bins require collection, helping improve waste collection and recycling management.
+The system provides **real-time bin monitoring, critical-bin alerts, AI-based overflow prediction, collector management, route optimization, and live map tracking**, helping make waste collection more efficient, organized, and sustainable.
 
 ### ✨ Key Features
 
-* 🗑️ IoT-enabled smart dustbins
-* 📡 Ultrasonic sensor-based monitoring
-* 📊 Waste monitoring dashboard
-* 🟢🟡🔴 Color-coded bin status
-* 🔔 Full-bin notifications
-* 👷 Collector assignment
-* 🗺️ Route optimization
-* 📍 Live map tracking
+🗑️ IoT-enabled smart waste bins<br>
+📡 Real-time waste-level monitoring using HC-SR04 ultrasonic sensors<br>
+🟢🟡🔴 Color-coded bin status indicators<br>
+🔔 Real-time alerts for critical and overflowing bins<br>
+🤖 AI-based waste overflow prediction using Groq Cloud API<br>
+🚛 Collector assignment and collection management<br>
+🗺️ Nearest-Neighbor (Greedy) route optimization<br>
+📍 Live bin and fleet tracking using React Leaflet<br>
+📊 Waste analytics dashboard using Recharts
 
-**Technologies:**
-`React.js` `Node.js` `Express.js` `MongoDB` `ESP8266` `HC-SR04`
+
+**Technologies:** 
+`React.js` `Node.js` `Express.js` `ESP8266` `HC-SR04`
 
 ---
 
@@ -170,29 +172,20 @@ Worked on a live web application as part of structured practical training, gaini
 </div>
 
 
-## `06` — GitHub Activity
+## `06` — GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Savitha20-06&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savitha20-06&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Savitha20-06&bg_color=FFFFFF&color=624554&line=806275&point=4B3545&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" width="95%"/>
-
-</div>
-
----
-
-## `07` — GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Savitha20-06&show_icons=true&hide_border=true&title_color=624554&icon_color=806275&text_color=555555&bg_color=FFFFFF" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savitha20-06&layout=compact&hide_border=true&title_color=624554&text_color=555555&bg_color=FFFFFF" height="170"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SavithaS&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
-## `08` — Connect
+## `07` — Connect
 
 <div align="center">
 
