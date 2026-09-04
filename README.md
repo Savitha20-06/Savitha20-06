@@ -171,6 +171,7 @@ Worked on a live web application as part of structured practical training, gaini
 
 </div>
 
+--- 
 
 ## `06` — GitHub Stats
 
