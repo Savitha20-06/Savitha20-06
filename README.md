@@ -128,6 +128,27 @@ The system provides **real-time bin monitoring, critical-bin alerts, AI-based ov
 `React.js` `Node.js` `Express.js` `ESP8266` `HC-SR04`
 
 ---
+🎓 Student Leave Management System
+
+A full-stack leave management application built with Java, Spring Boot, React.js, and MySQL, designed to manage student leave requests, approvals and leave status tracking.
+
+The application provides a structured workflow for submitting and managing leave requests while using a Spring Boot backend and MySQL database for application data.
+
+✨ Key Features
+📝 Student leave application
+👨‍🏫 Leave approval workflow
+📊 Leave status tracking
+🔐 Role-based access
+🗄️ MySQL database integration
+🌐 REST API-based backend
+
+Current Progress:
+☁️ Currently working on deploying the application on AWS and learning cloud deployment fundamentals.
+
+**Technologies:**
+`Java` `Spring Boot` `React.js` `MySQL` `REST API`
+
+---
 
 ## `04` — Experience
 
