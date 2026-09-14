@@ -34,11 +34,11 @@ My current focus is on becoming a strong Java Software Developer with a solid fo
 
 ### 🌱 Currently Learning
 
-`Spring Boot` · `RAG` · `AI Agents` · `ChromaDB` · `System Design`
+`Spring Boot` · `RAG` · `Cloud Computing` · `AWS` · `System Design`
 
 ### 🎯 Areas of Interest
 
-`Full Stack Development` · `AI & Generative AI` · `Java Software Development` · `Problem Solving`
+`Java Software Development` · `Full Stack Development` · `Cloud Computing` · `AI & Generative AI` · `Problem Solving`
 
 ---
 
